@@ -1,7 +1,7 @@
-function solve (num){
-    if (num>=5.5){
+function solve(num) {
+    if (num >= 5.5) {
         console.log("Excellent");
-    }else {
+    } else {
         console.log("Not excellent")
     }
 }
