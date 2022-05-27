@@ -1,4 +1,3 @@
-# SoftUni-JS-Fundamentals-January-2022
 ![ProgrammingFundamentals](https://user-images.githubusercontent.com/100354136/162905674-3e737d35-d311-4371-864e-e736d522581e.jpg)
 
 ![certificate](https://user-images.githubusercontent.com/100354136/162907455-0a8a7e5a-dec8-4c83-a554-d3282394b2e7.jpg)
